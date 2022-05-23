@@ -2,6 +2,7 @@
   Febriari "xfce" Candra
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2>Halo aku febriari candra guritno, seorang software engineer yang sedang kuliah di salah satu kampus yogyakarta. aku senang menulis kode, memecahkan masalah, membaca buku, mendengarkan musik, dan tentunya menikmati hidup sebagai seorang yang terus ingin belajar.</h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
