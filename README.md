@@ -1,7 +1,9 @@
 <h1 align="center">
   Febriari "xfce" Candra
 </h1>
-<h3>brilliant software engineer</h3>
+<h3 align="center">brilliant software engineer</h3>
+<br>
+<h4 align="center">pressured</h4>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
