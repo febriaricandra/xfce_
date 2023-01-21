@@ -1,7 +1,7 @@
 <h1 align="center">
   Febriari "xfce" Candra
 </h1>
-<h3 align="center">brilliant software engineer</h3>
+<h3 align="center">well known stranger</h3>
 <br>
 <h4 align="center">pressured</h4>
 <div id="header" align="center">
